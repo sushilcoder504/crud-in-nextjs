@@ -14,3 +14,30 @@ a {
 * {
   box-sizing: border-box;
 }
+.contactform{
+  width: 80%;
+  margin: auto;
+  /* background-color: blueviolet; */
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.contactform input{
+  display: block;
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+}
+.formcenter{
+/* background-color: brown; */
+width: 50%;
+ 
+}
+
+.nextformbtn{
+   border: none;
+   outline: none;
+   padding: 7px 25px;
+   background-color: cornflowerblue;
+   margin-top: 5px;
+}
